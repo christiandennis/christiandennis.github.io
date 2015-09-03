@@ -1,0 +1,80 @@
+body {
+	background-color: #003262 ;
+}
+
+.navbar-fixed-top {
+	background-color: #46535E;
+	text-align: center;
+}
+
+.main_menu .icon{
+	color: #EEEEEE ;
+	font-size: 2em;
+	line-height: 50px;
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+}
+
+.content {
+	color: #FDB515;
+	margin-top: calc(50px + 1em);
+	display: table;
+	margin: auto auto;
+	font-size: 2em;
+}
+
+.name {
+	font-size: 10em;
+	margin: 0px 1em;
+}
+
+.about {
+	color: #003262;
+	width: 80%;
+}
+
+.edu {
+	font-size: 1em;
+}
+
+.code {
+	color: #003262;
+}
+
+.contact {
+	color: #00B0DA;
+}
+
+.contact i{
+	color: #00B0DA;
+	font-size: 2em;
+	line-height: 50px;
+	margin-left: 0.25em;
+	margin-right: 0.25em;
+	margin-bottom: 0.2em;
+	margin-top: 0.2em;
+}
+
+.contact .icon:hover {
+	color: #FDB515;
+}
+
+.contact .username {
+	font-size: 1.5em;
+}
+
+.contact td{
+	vertical-align: bottom;
+}
+
+.subtitle {
+	font-size: 2em;
+}
+
+
+
+/*fullpage.jd extension*/
+#fp-nav ul li a span,
+.fp-slidesNav ul li a span{
+	background-color: #FFFFFF;
+}
