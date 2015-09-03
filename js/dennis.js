@@ -14,8 +14,6 @@ var Dennis = (function() {
 			$(document).on('mousewheel', function() {   
 							
 			});
-
-
 		});
 
 

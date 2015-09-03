@@ -2,6 +2,14 @@ body {
 	background-color: #003262 ;
 }
 
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
 .navbar-fixed-top {
 	background-color: #46535E;
 	text-align: center;
@@ -42,33 +50,29 @@ body {
 
 .contact {
 	color: #00B0DA;
+	width: 78%;
 }
 
-.contact i{
-	color: #00B0DA;
+.contact a{
 	font-size: 3vw;
-	line-height: 50px;
-	margin-left: 0.25em;
-	margin-right: 0.25em;
+	color: #1FD2FF;
 }
 
-.contact .icon:hover {
+.contact a:hover{
 	color: #FDB515;
 }
 
-.contact .username {
-	font-size: 2.5vw;
-}
-
-.contact td{
-	vertical-align: bottom;
+.contact .small_text{
+	font-size: 2vw;
 }
 
 .subtitle {
 	font-size: 4vw;
 }
 
-
+.contact_link_hover {
+	color: #FDB515;
+}
 
 /*fullpage.jd extension*/
 #fp-nav ul li a span,
