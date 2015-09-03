@@ -9,22 +9,21 @@ body {
 
 .main_menu .icon{
 	color: #EEEEEE ;
-	font-size: 2em;
+	font-size:	3vh;
 	line-height: 50px;
-	margin-left: 0.25em;
-	margin-right: 0.25em;
+	margin-left: 0.25vw;
+	margin-right: 0.25vw;
 }
 
 .content {
 	color: #FDB515;
-	margin-top: calc(50px + 1em);
 	display: table;
 	margin: auto auto;
-	font-size: 2em;
+	font-size: 2vw;
 }
 
 .name {
-	font-size: 10em;
+	font-size: 10vw;
 	margin: 0px 1em;
 }
 
@@ -34,7 +33,7 @@ body {
 }
 
 .edu {
-	font-size: 2em;
+	font-size: 2vw;
 }
 
 .code {
@@ -47,7 +46,7 @@ body {
 
 .contact i{
 	color: #00B0DA;
-	font-size: 2em;
+	font-size: 3vw;
 	line-height: 50px;
 	margin-left: 0.25em;
 	margin-right: 0.25em;
@@ -60,7 +59,7 @@ body {
 }
 
 .contact .username {
-	font-size: 1.5em;
+	font-size: 2.5vw;
 }
 
 .contact td{
@@ -68,7 +67,7 @@ body {
 }
 
 .subtitle {
-	font-size: 3em;
+	font-size: 4vw;
 }
 
 
