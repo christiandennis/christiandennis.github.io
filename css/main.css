@@ -53,6 +53,10 @@ a:hover {
 	text-decoration: none;
 }
 
+.code i {
+	font-size: 1vw;
+}
+
 .contact {
 	color: #00B0DA;
 	width: 78%;
