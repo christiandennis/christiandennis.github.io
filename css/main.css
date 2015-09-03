@@ -48,6 +48,11 @@ a:hover {
 	color: #003262;
 }
 
+.code a{
+	color: #003262;
+	text-decoration: none;
+}
+
 .contact {
 	color: #00B0DA;
 	width: 78%;
