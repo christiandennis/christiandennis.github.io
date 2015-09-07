@@ -33,6 +33,7 @@ a:hover {
 .name {
 	font-size: 10vw;
 	margin: 0px 1em;
+	width: 80%
 }
 
 .about {
@@ -42,10 +43,12 @@ a:hover {
 
 .edu {
 	font-size: 2vw;
+	width: 80%;
 }
 
 .code {
 	color: #003262;
+	width: 80%;
 }
 
 .code a{
